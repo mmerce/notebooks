@@ -1,0 +1,4 @@
+movie_id,country,main_country,budget,budget_currency,opening_weekend,opening_weekend_country,opening_weekend_date,budget_USD,opening_weekend_USD
+tt0322674,Netherlands; Luxembourg,Netherlands,,,1207.00,USA,2005-05-06,,1207.00
+tt1206488,Spain; Peru,Spain,,,1914.00,USA,2010-08-27,,1914.00
+tt0265208,USA,USA,25000000.00,USD,3184.00,USA,2001-03-30,25000000,3184.00
