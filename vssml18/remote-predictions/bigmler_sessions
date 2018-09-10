@@ -1,0 +1,20 @@
+bigmler main --test data/churn-test.csv --model model/5b9556162774cb43d1001765 --output-dir remote-predictions --remote
+
+[2018-09-10 00:57:31] Retrieving model. https://bigml.com/dashboard/model/5b9556162774cb43d1001765
+[2018-09-10 00:57:32] Creating test source.
+[2018-09-10 00:57:37] Source created: https://bigml.com/dashboard/source/5b95a55d2774cb43c80001e0
+[2018-09-10 00:57:37] Creating dataset.
+[2018-09-10 00:57:40] Dataset created: https://bigml.com/dashboard/dataset/5b95a56292527314d40001fa
+[2018-09-10 00:57:40] Creating batch prediction.
+[2018-09-10 00:57:44] Batch prediction created: https://bigml.com/dashboard/batchprediction/5b95a5662774cb43d1001910
+
+Generated files:
+
+ remote-predictions
+  ├─bigmler_sessions
+  ├─source_test
+  ├─predictions.csv
+  ├─dataset_test
+  └─batch_prediction
+
+________________________________________________________________________________

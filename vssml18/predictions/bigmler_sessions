@@ -1,0 +1,16 @@
+bigmler main --test data/churn-telecom.csv --model model/5b9556162774cb43d1001765 --output-dir predictions
+
+[2018-09-10 00:55:02] Retrieving model. https://bigml.com/dashboard/model/5b9556162774cb43d1001765
+[2018-09-10 00:55:03] Creating local predictions.
+bigmler main --test data/churn-test.csv --model model/5b9556162774cb43d1001765 --output-dir predictions
+
+[2018-09-10 00:56:00] Retrieving model. https://bigml.com/dashboard/model/5b9556162774cb43d1001765
+[2018-09-10 00:56:01] Creating local predictions.
+
+Generated files:
+
+ predictions
+  ├─bigmler_sessions
+  └─predictions.csv
+
+________________________________________________________________________________

@@ -1,0 +1,19 @@
+bigmler main --datasets diabetes_anomaly/dataset_gen --output-dir diabetes-clean-eval --evaluate
+
+[2018-09-10 01:42:04] Retrieving dataset. https://bigml.com/dashboard/dataset/5b95aed692527314e10018e4
+[2018-09-10 01:42:05] Creating model.
+[2018-09-10 01:42:09] Model created: https://bigml.com/dashboard/model/5b95afcec7736e657b0016e5
+[2018-09-10 01:42:09] Creating evaluations.
+[2018-09-10 01:42:14] Evaluation created: https://bigml.com/dashboard/evaluation/5b95afd4c7736e658000026e
+[2018-09-10 01:42:14] Retrieving evaluation. https://bigml.com/dashboard/evaluation/5b95afd4c7736e658000026e
+
+Generated files:
+
+ diabetes-clean-eval
+  ├─bigmler_sessions
+  ├─evaluation.txt
+  ├─evaluation.json
+  ├─models
+  └─evaluations
+
+________________________________________________________________________________

@@ -1,0 +1,54 @@
+bigmler anomaly --anomaly-fields "insulin,pregnancies,plasma glucose,diabetes" --top-n 2 --anomalies-dataset out --output-dir diabetes_anomaly
+
+________________________________________________________________________________
+bigmler anomaly --anomaly-fields "insulin,pregnancies,plasma glucose,diabetes" --top-n 2 --anomalies-dataset out --output-dir diabetes_anomaly --to-dataset
+
+________________________________________________________________________________
+bigmler anomaly --dataset dataset/5b95a92a92527314dd000241 --anomaly-fields "insulin,pregnancies,plasma glucose,diabetes" --top-n 2 --anomalies-dataset out --output-dir diabetes_anomaly --to-dataset
+
+[2018-09-10 01:37:47] Retrieving dataset. https://bigml.com/dashboard/dataset/5b95a92a92527314dd000241
+[2018-09-10 01:37:48] Creating anomaly detector.
+[2018-09-10 01:37:56] Anomaly created: https://bigml.com/dashboard/anomaly/5b95aecc92527314e10018e1
+[2018-09-10 01:37:57] Creating dataset.
+[2018-09-10 01:38:00] Dataset created: https://bigml.com/dashboard/dataset/5b95aed692527314e10018e4
+
+Generated files:
+
+ diabetes_anomaly
+  ├─bigmler_sessions
+  ├─dataset_gen
+  └─anomalies
+
+________________________________________________________________________________
+bigmler anomaly --dataset dataset/5b95a92a92527314dd000241 --anomaly-fields "insulin,pregnancies,plasma glucose,diabetes" --top-n 2 --anomalies-dataset out --output-dir diabetes_anomaly
+
+[2018-09-10 01:38:07] Retrieving dataset. https://bigml.com/dashboard/dataset/5b95a92a92527314dd000241
+[2018-09-10 01:38:08] Creating anomaly detector.
+[2018-09-10 01:38:17] Anomaly created: https://bigml.com/dashboard/anomaly/5b95aee12774cb43d1001969
+[2018-09-10 01:38:18] Creating dataset.
+[2018-09-10 01:38:21] Dataset created: https://bigml.com/dashboard/dataset/5b95aeeb2774cb43d100196c
+
+Generated files:
+
+ diabetes_anomaly
+  ├─bigmler_sessions
+  ├─dataset_gen
+  └─anomalies
+
+________________________________________________________________________________
+bigmler anomaly --dataset dataset/5b95a92a92527314dd000241 --anomaly-fields "insulin,pregnancies,plasma glucose,diabetes" --top-n 2 --anomalies-dataset out --output-dir diabetes_anomaly
+
+[2018-09-10 01:56:43] Retrieving dataset. https://bigml.com/dashboard/dataset/5b95a92a92527314dd000241
+[2018-09-10 01:56:44] Creating anomaly detector.
+[2018-09-10 01:56:51] Anomaly created: https://bigml.com/dashboard/anomaly/5b95b33d2774cb43d1001986
+[2018-09-10 01:56:52] Creating dataset.
+[2018-09-10 01:56:56] Dataset created: https://bigml.com/dashboard/dataset/5b95b34592527314e10018f8
+
+Generated files:
+
+ diabetes_anomaly
+  ├─bigmler_sessions
+  ├─dataset_gen
+  └─anomalies
+
+________________________________________________________________________________

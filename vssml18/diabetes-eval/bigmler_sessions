@@ -1,0 +1,24 @@
+bigmler main --train data/ext_diabetes.csv --output-dir diabetes-eval --evaluate
+
+[2018-09-10 01:40:06] Creating source.
+[2018-09-10 01:40:10] Source created: https://bigml.com/dashboard/source/5b95af5792527314e10018e7
+[2018-09-10 01:40:10] Creating dataset.
+[2018-09-10 01:40:14] Dataset created: https://bigml.com/dashboard/dataset/5b95af5c92527314e10018ea
+[2018-09-10 01:40:14] Creating model.
+[2018-09-10 01:40:18] Model created: https://bigml.com/dashboard/model/5b95af5f2774cb43d1001973
+[2018-09-10 01:40:18] Creating evaluations.
+[2018-09-10 01:40:23] Evaluation created: https://bigml.com/dashboard/evaluation/5b95af632774cb43d1001976
+[2018-09-10 01:40:23] Retrieving evaluation. https://bigml.com/dashboard/evaluation/5b95af632774cb43d1001976
+
+Generated files:
+
+ diabetes-eval
+  ├─bigmler_sessions
+  ├─evaluation.txt
+  ├─evaluation.json
+  ├─models
+  ├─evaluations
+  ├─dataset
+  └─source
+
+________________________________________________________________________________
