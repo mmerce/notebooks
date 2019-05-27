@@ -1,0 +1,6 @@
+,sepal length,sepal width,petal length,petal width,species
+sepal length,1,0.06113,0.76117,0.62486,0.61871
+sepal width,0.02736,1,0.47764,0.24111,0.40078
+petal length,0.6768,0.21622,1,0.85376,0.94137
+petal width,0.60519,0.16504,0.86356,1,0.92888
+species,0.61871,0.40078,0.94137,0.92888,1
