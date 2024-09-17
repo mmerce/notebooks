@@ -12,7 +12,7 @@ Un cop enviat el formulari, rebreu un correu electrònic per verificar la
 vostra adreça. Si us plau, reviseu la vostra carpeta de correu brossa si no
 el veieu aparèixer en uns minuts.
 
-[https://bigml.com/accounts/register](https://bigml.com/accounts/register){:target="_blank"}
+[https://bigml.com/accounts/register](https://bigml.com/accounts/register)
 
 ## Dades per als exemples
 
@@ -25,7 +25,7 @@ s'usen en la presentació.
 Les dades són a un fitxer CSV accessible via HTTP. Aneu al menú
 de *Sources* i carregueu les dades des de la següent ubicació remota.
 
-[https://static.bigml.com/csv/diabetes.csv](https://static.bigml.com/csv/diabetes.csv){:target="_blank"}
+[https://static.bigml.com/csv/diabetes.csv](https://static.bigml.com/csv/diabetes.csv)
 
 
 ### Predicció de baixes en una companyia de telecomunicacions
@@ -36,7 +36,7 @@ Poseu la següent adreça al navegador i copieu el *Dataset* al vostre compte de
 BigML.
 
 
-[https://bigml.com/shared/dataset/3kzO4r0fWaATCk0mhSq6n8oWFFV](https://bigml.com/shared/dataset/3kzO4r0fWaATCk0mhSq6n8oWFFV){:target="_blank"}
+[https://bigml.com/shared/dataset/3kzO4r0fWaATCk0mhSq6n8oWFFV](https://bigml.com/shared/dataset/3kzO4r0fWaATCk0mhSq6n8oWFFV)
 
 
 ### Predicció del preu de venda d'un habitatge
@@ -44,10 +44,10 @@ BigML.
 En aquest cas, baixareu les dades des de la nostra galeria pública de *Datasets*
 que podeu trobar a https://bigml.com/gallery.
 
-Poseu la següent adreça al navegador i premeu "Buy" (és gratuït) per copiar les
-dades al vostre compte de BigML.
+Poseu la següent adreça al navegador i premeu "Free/Buy" (és gratuït) per copiar
+el *Dataset* al vostre compte de BigML.
 
-[https://bigml.com/user/alonso/gallery/dataset/5b3ba77692fb56073d001225](https://bigml.com/user/alonso/gallery/dataset/5b3ba77692fb56073d001225){:target="_blank"}
+[https://bigml.com/user/alonso/gallery/dataset/5b3ba77692fb56073d001225](https://bigml.com/user/alonso/gallery/dataset/5b3ba77692fb56073d001225)
 
 
 ## Automatització
@@ -61,4 +61,4 @@ la creació d'un model de predicció de diabetis. També inclou un exemple
 de predicció feta descarregant el model a l'ordinador client i executant
 les prediccions en local.
 
-[https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl](https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl){:target="_blank"}
+[https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl](https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl)
