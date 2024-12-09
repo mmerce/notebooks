@@ -32,7 +32,7 @@ de *Sources* i carregueu les dades des de la següent ubicació remota.
 
 Aquí accedireu a les dades gràcies a un enllaç secret a un *Dataset* creat i
 compartit per un altre usuari de BigML.
-Poseu la següent adreça al navegador i copieu el *Dataset* al vostre compte de
+Poseu la següent adreça al navegador i cloneu el *Dataset* al vostre compte de
 BigML.
 
 
