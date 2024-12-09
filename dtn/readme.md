@@ -38,6 +38,9 @@ The data is available in this repo
 
 [./data/churn-telecom-10f.csv](./data/churn-telecom-10f.csv)
 
+You can either download it to your computer and upload it from there to BigML or directly use the link:
+
+[https://raw.githubusercontent.com/mmerce/notebooks/refs/heads/master/dtn/data/churn-telecom-10f.csv](https://raw.githubusercontent.com/mmerce/notebooks/refs/heads/master/dtn/data/churn-telecom-10f.csv)
 
 ### Ozone levels in Los Angeles
 
