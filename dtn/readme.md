@@ -78,8 +78,6 @@ Here's a summary of everything in a step-by-step way:
 
 [https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl](https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl)
 
-And here's how you would integrate Client and Server using a WhizzML script
-
 ### Hands on example
 
 We'll try to reproduce the previous workflows for the Discretized ozone_range levels.
