@@ -60,9 +60,9 @@ load them from a remote location:
 ## Automation
 
 
-### Training and prediction workflow
+### Training and prediction workflow examples
 
-This is an iPython Notebook in Google Colab. It describes the entire workflow
+These are iPython Notebooks in Google Colab. They describe the entire workflow
 to upload data to BigML and train a model that can instantly be used to do
 predictions for diabetes.
 
@@ -79,3 +79,12 @@ Here's a summary of everything in a step-by-step way:
 [https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl](https://colab.research.google.com/drive/1alelKKPjmgcX7gtKA6VJMi5Uqii8G6kl)
 
 And here's how you would integrate Client and Server using a WhizzML script
+
+### Hands on example
+
+We'll try to reproduce the previous workflows for the Discretized ozone_range levels.
+
+The templates for the colabs are in:
+
+[https://drive.google.com/drive/folders/1jwf8I73K_-2P933QvTHoumJY-KeP8AzL?usp=sharing](https://drive.google.com/drive/folders/1jwf8I73K_-2P933QvTHoumJY-KeP8AzL?usp=sharing)
+
